@@ -1,11 +1,7 @@
 
 <div align="left">
 
-**Current focus**  
-Working on [`backtesting-engine`](https://github.com/DanRedelien/backtesting-engine), mainly the [`v2-alpha`](https://github.com/DanRedelien/backtesting-engine/tree/v2-alpha) branch.
-
-**Availability**  
-May-Aug is a slow period for me. I expect to resume v2 work closer to late Jun/Jul, but activity will stay limited while I study FRM Part 1 and learn math. Issues are welcome; I will still prioritize clear bug reports and actionable fixes.
+Working on a cool project. Details on my X.com (both)
 
 **Disclosure**  
 Most of my projects are built with substantial LLM assistance, primarily GPT models and other frontier models.
